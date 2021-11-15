@@ -1,0 +1,17 @@
+.post-item-list {
+  background: var(--background-card);
+  width: 100%;
+  max-width: 40%;
+  border-radius: 0.25rem;
+
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.post-item-list strong {
+  color: var(--shape);
+}
+
+.post-item-list p {
+  color: #8be9fd;
+}

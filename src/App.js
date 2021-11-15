@@ -1,7 +1,12 @@
+import './styles/global.css'
+
+import Posts  from './components/Posts'
 
 function App() {
   return (
-    <h1>Render Code</h1>
+    <main className="container">
+      <Posts />
+    </main>
   );
 }
 
