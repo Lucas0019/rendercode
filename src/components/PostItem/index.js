@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { memo } from 'react'
 
 import './styles.css'
 
@@ -11,4 +11,4 @@ const PostItem = ({ post }) => {
   )
 }
 
-export default PostItem
+export default memo(PostItem)
