@@ -1,1 +1,0 @@
-### Modelo de Abertura de PR's 🔥
